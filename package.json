@@ -1,0 +1,42 @@
+{
+  "name": "nextjs-smartose-monitor",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase": "^10.4.0",
+    "framer-motion": "^10.16.4",
+    "mysql": "^2.18.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-slick": "^0.29.0",
+    "react-typing-effect": "^2.0.5",
+    "recharts": "^2.8.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react-slick": "^0.23.10",
+    "@types/react-typing-effect": "^2.0.4",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
